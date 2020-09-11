@@ -1,3 +1,5 @@
+package Nivel01
+
 fun main(){
     print("Digite a primeira nota:")
     val nota01 = readLine()!!.toInt();

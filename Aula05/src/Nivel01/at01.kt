@@ -1,3 +1,5 @@
+package Nivel01
+
 fun main(){
     println("Digite seu sexo F para Feminino e M para masculino")
     when(readLine()!!.toUpperCase()){
