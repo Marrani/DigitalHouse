@@ -11,8 +11,8 @@ fun main(){
         if(notas >= 1 ){
             println("$notas notas de 100 reais.")
         }
-        saque -= (notas*100)
-        notas = (saque/50)
+        saque -= notas*100
+        notas = saque/50
         if(notas>=1){
             println("$notas notas de 50 reais.")
         }
