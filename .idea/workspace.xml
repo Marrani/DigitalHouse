@@ -20,19 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2657aa-fdef-4bf8-a10f-124f0ff0ddbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aula04/Aula04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula07/src/excercício04/exercicio04.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula08/Aula08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula10/Aula10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11/aula11.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula06/Aula06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula06/Aula06.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula07/Aula07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula07/Aula07.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula07/META-INF/Aula07.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aula07/META-INF/Aula07.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -58,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula10/src" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +58,7 @@
       <recent name="C:\Users\gabri\OneDrive\Documentos\www\DigitalHouse\Aula10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Excercicio08Kt">
+  <component name="RunManager" selected="Kotlin.Excercicio11Kt">
     <configuration name="Excercicio08Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Aula08" />
       <option name="VM_PARAMETERS" />
@@ -92,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Excercicio11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="aula11" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Excercicio11Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Aula10" />
       <option name="VM_PARAMETERS" />
@@ -107,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Excercicio11Kt" />
         <item itemvalue="Kotlin.Excercicio08Kt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Excercicio10Kt" />
@@ -141,30 +148,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="70" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600686319753" />
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom" timestamp="1600727340941">
+    <state width="1323" height="231" key="GridCell.Tab.0.bottom" timestamp="1600730438108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600727340941" />
-    <state width="1323" height="231" key="GridCell.Tab.0.center" timestamp="1600727340941">
+    <state width="1323" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600730438108" />
+    <state width="1323" height="231" key="GridCell.Tab.0.center" timestamp="1600730438107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600727340941" />
-    <state width="1323" height="231" key="GridCell.Tab.0.left" timestamp="1600727340941">
+    <state width="1323" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600730438107" />
+    <state width="1323" height="231" key="GridCell.Tab.0.left" timestamp="1600730438107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600727340941" />
-    <state width="1323" height="231" key="GridCell.Tab.0.right" timestamp="1600727340941">
+    <state width="1323" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600730438107" />
+    <state width="1323" height="231" key="GridCell.Tab.0.right" timestamp="1600730438107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600727340941" />
+    <state width="1323" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600730438107" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600728317850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1600728317850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1600728317850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1600728317850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
+    <state x="65" y="0" key="new project wizard" timestamp="1600728603643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600728603643" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/Aula08/src/excercicio08.kt</url>
-          <line>12</line>
-          <option name="timeStamp" value="3" />
+          <line>9</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
