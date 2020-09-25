@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2657aa-fdef-4bf8-a10f-124f0ff0ddbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aula04/Aula04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula11/aula11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula12/aula12.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,33 +58,7 @@
       <recent name="C:\Users\gabri\OneDrive\Documentos\www\DigitalHouse\Aula10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Excercicio11Kt">
-    <configuration name="Excercicio08Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Aula08" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Excercicio08Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Excercicio10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Aula10" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="parte02.Excercicio10Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Exercicio3Kt">
     <configuration name="Excercicio11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="aula11" />
       <option name="VM_PARAMETERS" />
@@ -98,14 +72,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Aula10" />
+    <configuration name="Excercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="aula12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="parte03.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="collections.Excercicio1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="aula12" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Exercicio12Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="aula12" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="collections.exercicio02.Exercicio2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="aula12" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="collections.exercicio03.Exercicio3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,10 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio3Kt" />
+        <item itemvalue="Kotlin.Exercicio2Kt" />
+        <item itemvalue="Kotlin.Excercicio1Kt" />
+        <item itemvalue="Kotlin.Exercicio12Kt" />
         <item itemvalue="Kotlin.Excercicio11Kt" />
-        <item itemvalue="Kotlin.Excercicio08Kt" />
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.Excercicio10Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -148,22 +162,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="70" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600686319753" />
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom" timestamp="1600730438108">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1601070407725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600730438108" />
-    <state width="1323" height="231" key="GridCell.Tab.0.center" timestamp="1600730438107">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1601070407725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600730438107" />
-    <state width="1323" height="231" key="GridCell.Tab.0.left" timestamp="1600730438107">
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1601070407725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600730438107" />
-    <state width="1323" height="231" key="GridCell.Tab.0.right" timestamp="1600730438107">
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1601070407725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="231" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600730438107" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600728317850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,10 +194,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
-    <state x="65" y="0" key="new project wizard" timestamp="1600728603643">
+    <state x="131" y="0" key="new project wizard" timestamp="1600902778904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600728603643" />
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1600902778904" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1600908248376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1600908248376" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
