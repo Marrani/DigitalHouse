@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2657aa-fdef-4bf8-a10f-124f0ff0ddbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aula04/Aula04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula12/aula12.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula08/src/excercicio08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula08/src/exercicio08.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula10/src/parte02/excercicio10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula10/src/parte02/exercicio10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula11/src/excercicio11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aula11/src/exercicio11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/excercicio1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aula12/src/collections/exercicio1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/GuardaVolumes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aula12/src/collections/exercicio04/GuardaVolumes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/Peca.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula12/META-INF/aula12.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula12/META-INF/aula12.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula12/collections/Excercicio1Kt.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,28 +63,15 @@
       <recent name="C:\Users\gabri\OneDrive\Documentos\www\DigitalHouse\Aula10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Exercicio3Kt">
-    <configuration name="Excercicio11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="aula11" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Excercicio11Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Excercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Exercicio04Kt">
+    <configuration name="Exercicio04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="aula12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collections.Excercicio1Kt" />
+      <option name="MAIN_CLASS_NAME" value="collections.exercicio04.Exercicio04Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,6 +85,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Exercicio12Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="aula12" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="collections.Exercicio1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio04Kt" />
         <item itemvalue="Kotlin.Exercicio3Kt" />
         <item itemvalue="Kotlin.Exercicio2Kt" />
-        <item itemvalue="Kotlin.Excercicio1Kt" />
+        <item itemvalue="Kotlin.Exercicio1Kt" />
         <item itemvalue="Kotlin.Exercicio12Kt" />
-        <item itemvalue="Kotlin.Excercicio11Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,42 +163,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="474" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1601151220286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601151220286" />
+    <state x="290" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601152303334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="290" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1601152303334" />
     <state x="462" y="70" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1600686319753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="70" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600686319753" />
-    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1601070407725">
+    <state width="437" height="438" key="DebuggerActiveHint" timestamp="1601150104110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
-    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1601070407725">
+    <state width="437" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1601150104110" />
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1601152269342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
-    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1601070407725">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601152269342" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1601152269342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
-    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1601070407725">
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601152269342" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1601152269342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601070407725" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600728317850">
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601152269342" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1601152269342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1600728317850">
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601152269342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1601150171267">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1600728317850">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601150171267" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1601150171266">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1600728317850">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601150171266" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1601150171266">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600728317850" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601150171266" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1601150171266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601150171266" />
     <state x="131" y="0" key="new project wizard" timestamp="1600902778904">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -207,11 +224,18 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/Aula08/src/excercicio08.kt</url>
+          <url>file://$PROJECT_DIR$/Aula08/src/exercicio08.kt</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="collections.exercicio04.Pertence" memberName="marca" />
+        <PinnedItemInfo parentTag="collections.exercicio04.Pertence" memberName="modelo" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
