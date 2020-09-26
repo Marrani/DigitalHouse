@@ -21,15 +21,19 @@
   <component name="ChangeListManager">
     <list default="true" id="0f2657aa-fdef-4bf8-a10f-124f0ff0ddbb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Aula04/Aula04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula08/src/excercicio08.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula08/src/exercicio08.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula10/src/parte02/excercicio10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Aula10/src/parte02/exercicio10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula11/src/excercicio11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aula11/src/exercicio11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12/src/collections/excercicio1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aula12/src/collections/exercicio1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/GuardaVolumes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aula12/src/collections/exercicio04/GuardaVolumes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/aula12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/Estado.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/Pessoa.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio01/Dicionario.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio01/exercicio1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio02/exercicio2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio03/Prova.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio03/exercicio3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/GuardaVolumes.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/Peca.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula12/META-INF/aula12.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula12/META-INF/aula12.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/aula12/collections/Excercicio1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/Pertence.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio04/exercicio04.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12/src/collections/exercicio12.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
